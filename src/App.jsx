@@ -1,7 +1,7 @@
 import React from "react"
 import Card from "./components/Card"
 import data from "./data"
-import logo from "./images/Fill213.png"
+import logo from "./images/2.png"
 
 
 export default function App() {
